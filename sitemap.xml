@@ -22,6 +22,48 @@
   <xhtml:link rel="alternate" hreflang="x-default" href="https://alshare.media/"/>
  </url>
  <url>
+  <loc>https://alshare.media/a-propos/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://alshare.media/a-propos/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://alshare.media/en/about/"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://alshare.media/ar/about/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://alshare.media/a-propos/"/>
+ </url>
+ <url>
+  <loc>https://alshare.media/en/about/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://alshare.media/a-propos/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://alshare.media/en/about/"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://alshare.media/ar/about/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://alshare.media/a-propos/"/>
+ </url>
+ <url>
+  <loc>https://alshare.media/ar/about/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://alshare.media/a-propos/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://alshare.media/en/about/"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://alshare.media/ar/about/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://alshare.media/a-propos/"/>
+ </url>
+ <url>
+  <loc>https://alshare.media/projets/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://alshare.media/projets/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://alshare.media/en/projects/"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://alshare.media/ar/projects/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://alshare.media/projets/"/>
+ </url>
+ <url>
+  <loc>https://alshare.media/en/projects/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://alshare.media/projets/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://alshare.media/en/projects/"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://alshare.media/ar/projects/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://alshare.media/projets/"/>
+ </url>
+ <url>
+  <loc>https://alshare.media/ar/projects/</loc>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://alshare.media/projets/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://alshare.media/en/projects/"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://alshare.media/ar/projects/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://alshare.media/projets/"/>
+ </url>
+ <url>
   <loc>https://alshare.media/contact/</loc>
   <xhtml:link rel="alternate" hreflang="fr" href="https://alshare.media/contact/"/>
   <xhtml:link rel="alternate" hreflang="en" href="https://alshare.media/en/contact/"/>
