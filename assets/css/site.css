@@ -329,3 +329,11 @@ p{margin:0 0 var(--s-2)}
 .legal-list dd .ltr,.legal-list dd a.ltr{white-space:normal;overflow-wrap:anywhere}
 .footer-links{margin-top:1rem}
 .footer-links a{color:inherit;text-decoration:underline;text-underline-offset:3px}
+
+/* preview: long About text over the blurred background */
+.about-long{padding-block:clamp(3rem,8vw,6rem)}
+.about-panel{max-width:44rem;margin-inline:auto;background:rgba(17,17,17,.55);
+  border:1px solid var(--c-rule);padding:clamp(1.5rem,4vw,3rem);
+  backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
+.about-panel p{margin:0 0 1.1em;line-height:1.85;font-size:1.05rem}
+.about-panel .page-title{margin-bottom:1.5rem}

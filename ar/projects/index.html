@@ -31,7 +31,13 @@
 </head>
 <body>
 <a class="skip" href="#main">انتقل إلى المحتوى</a>
-<div class="site-bg" aria-hidden="true" data-bg="flat"></div>
+<div class="site-bg" aria-hidden="true" data-bg="video">
+ <video class="site-bg__video" autoplay muted loop playsinline poster="/assets/hero/poster.jpg">
+  <source src="/assets/hero/bg.mp4" type="video/mp4">
+ </video>
+ <img class="site-bg__poster" src="/assets/hero/poster.jpg" alt="">
+ <div class="site-bg__overlay"></div>
+</div>
 <header class="site-header">
  <div class="wrap">
   <a class="brand" href="/ar/"><img src="/assets/logo/alshare-logo.svg" alt="شعار الشارع" width="120" height="75"></a>
